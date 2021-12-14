@@ -1,11 +1,12 @@
 # UNIDEG
-Beta proyect UNIDEG
++ Beta proyect UNIDEG +
 
-Fecha de ultima actualizacion 12/12/2021
+-----------------------------Fecha de ultima actualizacion 12/12/2021-----------------------------
 
-Aun queda hacer mas cambios.
+- Se estaran realizando cambios...
 
-Se puede modificar a pedido de lo que sea necesario.
+- Se puede modificar a pedido de lo que sea necesario para el usuario final.
 
-By: Alejandro Ortiz Rodriguez 
+- Creado por: Alejandro Ortiz Rodriguez 
+
 

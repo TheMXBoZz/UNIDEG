@@ -10,3 +10,15 @@
 - Creado por: Alejandro Ortiz Rodriguez 
 
 
+
+
+
+-----------------------------Fecha de ultima actualizacion 06/06/2022-----------------------------
+
+- Se estaran realizando cambios...
+
+- Se agregaron imagenes.
+
+- Se agregaron estilos.
+
+- Creado por: Alejandro Ortiz Rodriguez 

@@ -49,7 +49,7 @@ setTimeout("mueveReloj()",1000,1)
     </head>
 
     <!-- Fondo -->
-    <body style="background-color:#297DE1;" onload="mueveReloj()"> 
+    <body style="background-color:#FFFFFF;" background="endowment_Blog_Post.png" onload="mueveReloj()"> 
 
 
     
@@ -58,14 +58,15 @@ setTimeout("mueveReloj()",1000,1)
 
         <!-- Fondo -->
 
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary"> <!-- Barra superior de navegacion -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary" style="background-color: #005a65!important;"> <!-- Barra superior de navegacion -->
             <a class="navbar-brand" href="#"></a>
-            <img src="faviconSABES.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
+            <img src="SABES.svg" alt="" width="60" height="60" class="d-inline-block align-text-top">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> 
                 <span class="navbar-toggler-icon"></span> 
             </button>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
 
@@ -76,16 +77,19 @@ setTimeout("mueveReloj()",1000,1)
                         <a class="nav-link" href="index.php" style="color:#21E4C0"></a> 
                     </li>
                     <li class="nav-item"> 
-                        <a class="nav-link" href="CreateINprofesor.php" target="miContenedor" style="color:#21E4C0">Crear incidencia</a> 
+                        <a class="nav-link" href="CreateINprofesor.php" target="miContenedor" style="color:#21E4C0" ><strong>Crear incidencia</strong></a> 
                     </li> 
                     <li class="nav-item"> 
                         <a class="nav-link" href="ViewINprofesor.php" target="miContenedor" style="color:#21E4C0">Ver resgistro de incidencias</a> 
-                    </li>                               
+                    </li>
+                        <li class="navbar-logo" align="center">
+                           <img src="logo-UniversidadSABES.png" href="#" width="50%" height="100%">
+                        </li>                               
                 </ul> 
 
                                       <!-- Añadir en href el link a el menu inicial -->
                 <div class="btn-group"> 
-                    <button type="button" class="btn btn-danger" href="index" name= "botoninicio">Menu Principal
+                    <button type="button" class="btn btn-danger" href="index" name= "botoninicio"><strong>Menu Principal</strong>
                     </button> 
                 
 
@@ -99,7 +103,7 @@ setTimeout("mueveReloj()",1000,1)
        
 
 
-        <h1 align="center" class="texto"  style="color:#F3851E"; > Bienvenido al sistema de INCIDENCIAS UNIDEG </h1> 
+        <h1 align="center" class="texto" style="color:#E56900";> Bienvenido al sistema de INCIDENCIAS UNIDEG </h1> 
         
         <form name="form_reloj">
                     <input readonly="readonly" type="text" name="reloj" size="15">
@@ -112,14 +116,10 @@ setTimeout("mueveReloj()",1000,1)
         
         
         
-        <div class="card text-white bg-danger mb-3">
-            <div class="card-header" class="texto" style="color:#F3A11E" ></div>
-            <br /> <br />
-            <center><h2 class="texto" style="color:#F3A11E"> </h2> </center>
-            <hr> 
-            <br /> 
+        <div class="card text-white bg-danger mb-3" style="background-color: #005a65!important;">
+ 
 
-            <div class="texto" style="color:#89E321" >V 1.0 - By: Alejandro Ortiz Rodríguez
+            <div class="texto" style="color:#89E321" align="center">V 1.1 - Por: Alejandro Ortiz Rodríguez
             </div>
         </div>
 

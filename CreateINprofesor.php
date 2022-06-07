@@ -80,12 +80,12 @@ $muestraINFOalumno = mysqli_query ($consult, "SELECT * FROM persona");
         <title>Creacion de INCIDENCIA</title>
     </head>
 
-    <body style="background-color:#117AB7;">
+    <body style="background-color:#117AB7;" background="stock-photo-blue-wallpaper-texture.jpg">
 
 
         <hr>
 
-        <h2 style="color:#21E4C0" align="center" class="texto"> Por favor, llene los campos </h2>   
+        <h2 style="color:#E56900" align="center" class="texto"><strong>Llene los campos</strong></h2>   
 
         <hr>
         <br/>
